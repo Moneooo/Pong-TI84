@@ -8,7 +8,7 @@ Ball::Ball() {
     position.x = 120;
     position.y = 80;
     speed = 100;
-    baseSpeed = 100;
+    baseSpeed = 125;
     radius = 5;
 
     xDir = 1;

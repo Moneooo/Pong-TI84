@@ -6,7 +6,7 @@
 #include <keypadc.h>
 
 Paddle::Paddle(int player) {
-    speed = 100;
+    speed = 125;
     height = 40;
     width = 5;
 

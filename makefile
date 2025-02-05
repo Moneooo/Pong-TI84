@@ -4,7 +4,7 @@
 
 NAME = Pong
 ICON = icon.png
-DESCRIPTION = "Pong for the ti-84 plus CE - made by Paul"
+DESCRIPTION = "Pong for the ti-84 plus CE"
 COMPRESSED = YES
 COMPRESSED_MODE = zx7
 
