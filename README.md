@@ -17,7 +17,6 @@
  1. Go to the **Releases** tab.
  2. Download the latest release.
  3. Copy the `Pong.8xp` file to your calculator using **TI Connect CE**.
- 4. Finished! 🎉
 
     You should now be able to run the game through **_arTIfiCE_** or **_Cesium_**
 
@@ -26,4 +25,3 @@
 2. Install the [**CE Toolchain**](https://ce-programming.github.io/toolchain/static/getting-started.html).
 3. Run `make` in the `Pong-TI84` directory.
 4. Copy `Pong.8xp` from the `bin/` folder to your calculator (using **TI Connect CE**) or **CEmu**.
-5. Finished! 🚀
